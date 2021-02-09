@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+// #include <conio.h>  // NOTE: include this only when working on Turbo C or DOS
+
+int main()
+{
+    // clrscr(); // NOTE: include this only when working on Turbo C or DOS
+
+    // ALL YOUR CODE HERE
+
+    // getch();  // NOTE: include this only when working on Turbo C or DOS
+}
