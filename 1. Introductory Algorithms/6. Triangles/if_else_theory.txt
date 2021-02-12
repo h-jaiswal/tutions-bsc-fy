@@ -1,0 +1,98 @@
+#include <stdio.h>
+// #include <conio.h>
+
+int main()
+{
+    // clrscr();
+
+    // if
+    if ( condi )
+    {
+        // YES
+    }
+
+
+
+    // if - else
+    if( cond 1)
+    {
+        // YES
+    }
+    else
+    {
+        // NO
+    }
+
+
+    // if - else ladder
+
+    if ( condi 1 )
+    {
+        // YES
+    }
+    else if ( condi 2 )
+    {
+        // // on YES if of condi 2
+    }
+    else if ( condi 3 )
+    {
+        // on YES if of condi 3
+    }
+    else
+    {
+        // on NO of all above conditions
+    }
+
+
+
+    // NESTED IF
+
+    // simple nested if
+    if ( condi 1 )
+    {
+        // on YES of condi 1
+        if  ( condi 2 )
+        {
+            // on YES of condi 2
+        }
+    }
+
+
+
+
+
+
+
+    if ( condi 1 )   // OUTER IF
+    {
+        // on YES of condi 1
+        if  ( condi 2 )        // INNER IF
+        {
+            // on YES of condi 2
+        }
+        else
+        {
+            // on NO of condi 2
+        }
+    }
+    else
+    {
+        // on NO of condi 1
+    }
+
+
+
+
+
+
+    // getch();
+    return 0;
+}
+
+
+
+
+
+
+
+
