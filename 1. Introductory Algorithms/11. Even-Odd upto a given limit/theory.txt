@@ -1,0 +1,19 @@
+In C
+
+we have following operators
+
+int x;
+int y;
+
+addition of x and y is x+y
+
+substraction of y from x is x-y
+
+mult. of x and y is x*y
+
+division of x(dividend) by y(divisor) is x/y
+NOTE: if x and y are both of int datatype then x/y will give QUOTIENT only
+
+Now,
+
+there is an operator - x % y which gives the " remainder when x is divided by y "
