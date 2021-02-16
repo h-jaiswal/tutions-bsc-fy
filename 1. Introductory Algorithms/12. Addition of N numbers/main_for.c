@@ -13,18 +13,17 @@ int main()
     int value;
     int sum = 0;
 
-     while ( count > 0 )
-     {
+
+    for( int i = count ; i > 0 ; i = i - 1 )
+    {
         printf("Enter value: ");
         scanf("%d", &value);
         sum = sum + value;
-
-        count = count - 1;
-     }
-
+    }
 
     printf("Sum of given numbers is : %d", sum);
 
     // getch();
     return 0;
 }
+
