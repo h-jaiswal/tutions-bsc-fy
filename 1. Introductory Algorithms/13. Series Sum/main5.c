@@ -4,6 +4,7 @@
 
 // Odd number series is an A.P.  HOW ? 1, 3, 5, 7, .....  i.e. first term = a = 1, common diff = 2 , Nth term = a + (n-1)d where n is number of terms
 // SUM of n terms = n ( 2a + (n-1)d) / 2
+// ie for odd series = n * n
 
 int main()
 {

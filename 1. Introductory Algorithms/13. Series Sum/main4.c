@@ -4,6 +4,7 @@
 
 // Even number series is an A.P.  HOW ? 2, 4, 6, 8, .....  i.e. first term = a = 2, common diff = 2 , Nth term = a + (n-1)d where n is number of terms
 // SUM of n terms = n ( 2a + (n-1)d) / 2
+// for even series SUM = n * ( n + 1 )
 
 int main()
 {
