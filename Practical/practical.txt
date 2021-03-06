@@ -1,0 +1,12 @@
+1. Print N prime numbers
+2. check prime using non-prime condition
+3. largest of three
+4. sum and avg of 3 real numbers
+5. multi. table of a given number
+6. reverse of a number
+7. Simple interest.
+8. Area of sq. and cirn. of circle.
+9. call by reference
+10. call by value
+11. armstrong number
+12. and more..........
